@@ -4480,6 +4480,7 @@ describe('dragmode: false', function() {
 });
 
 describe('hovermode: (x|y)unified', function() {
+    
     var gd;
     var mock = {
         'data': [
